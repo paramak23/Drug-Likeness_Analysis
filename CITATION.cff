@@ -4,7 +4,7 @@ authors:
 - family-names: "Kandasamy"
   given-names: "Parameswaran"
   orcid: "https://orcid.org/0009-0008-2633-6246" # Optional: add your ORCID if you have one
-title: "Mastering Molecular Identity: Tautomer Standardization with RDKit"
+title: "Evaluating Drug-Likeness with Lipinski Ro5 and Veber's Rules with RDKit and Python"
 version: 1.0.0
 date-released: 2026-02-22
 url: "https://github.com/paramak23/Drug-Likeness_Analysis"
